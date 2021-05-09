@@ -40,4 +40,8 @@ public class MatrizAdyacencia {
 		cont = cont/2;
 		return cont;
 	}
-}
+	
+	
+		}
+
+
